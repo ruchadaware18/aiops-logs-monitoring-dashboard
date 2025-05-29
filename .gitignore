@@ -1,0 +1,25 @@
+# Ignore Python virtual environment
+venv/
+log_anal/venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# # Ignore large data files
+# *.csv
+# *.xlsx
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
